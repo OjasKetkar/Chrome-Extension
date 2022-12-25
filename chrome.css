@@ -1,0 +1,70 @@
+body {
+  width: 97%;
+  min-width: 300px;
+}
+
+#input-el {
+  margin: 10px;
+  width: 90%;
+  height: 30px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#input-el:hover {
+  border: .2em  solid #009b00;
+  cursor: text;
+}
+
+#save, #tab-btn {
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #009b00;
+  color: white;
+  font-weight: bolder;
+}
+
+#save:hover, #tab-btn:hover {
+  cursor: pointer;
+  background-color: #7ad77a;
+  color: #272727;
+}
+
+#reset {
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #009b00;
+  color: white;
+  font-weight: bolder;
+}
+
+#reset:hover {
+  cursor: pointer;
+  background-color: #7ad77a;
+  color: #272727;
+}
+
+#list-el {
+  height: 9em;
+}
+
+ul {
+  margin-top: 20px;
+  list-style: none;
+  text-decoration: none;
+  padding-left: 0;
+}
+
+li {
+  margin-top: 5px;
+}
+
+li a {
+  color: #009b00;
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=chrome.css.map */
