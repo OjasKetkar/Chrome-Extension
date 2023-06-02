@@ -1,5 +1,8 @@
 # Chrome-Extension
 Chrome Extension to save important links.
+
+![image](https://github.com/OjasKetkar/Chrome-Extension/assets/98796669/28d40767-1249-41ea-b008-104881a932c4)
+
 After downloading/cloning the following files, in order to load the custom made extensions, follow the following steps-
 1. Go to chrome://extensions/
 2. At the top right, turn on Developer mode
